@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/BrTJSk7.gif" width="300"/>
 </p>
-<h1 align="center">I'm Riin</h1>
+<h1 align="center">I'm Daniil (Riin)</h1>
 <h3 align="center">Web Developer from Russia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/24px-Flag_of_Russia.svg.png"></h3>
 
 ### 👨‍💻 &nbsp;About Me:
