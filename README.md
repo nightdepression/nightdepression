@@ -2,7 +2,8 @@
   <img src="https://i.imgur.com/BrTJSk7.gif" width="300"/>
 </p>
 <h1 align="center">👋 Hi there, I'm Daniil (Riin)</h1>
-<h3 align="center">Web Developer from Russia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/24px-Flag_of_Russia.svg.png"></h3>
+<h4 align="center">"Code is like poetry; every line tells a story, and every project builds a world."
+— Striving to create seamless web experiences.</h3>
 
 ### 👨‍💻 &nbsp;About Me:
 - 🔭 I’m currently working on **web development projects**  
