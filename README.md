@@ -31,6 +31,6 @@
 
 ---
 ### 🔥 &nbsp;My Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nightdepression&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a> <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightdepression&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightdepression&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nightdepression&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
