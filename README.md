@@ -14,7 +14,7 @@
 ### ❓ &nbsp;Current Thoughts:
 -  I have a passion for programming and web development. After a break from the programming scene, I’m currently rebuilding my skills and diving back into the world of coding. <br />
 -  I enjoy working with modern web technologies and have experience with both frontend and backend development. <br />
--  Right now, I'm focusing on honing my expertise and am eager to find opportunities to apply and further develop my skills. <br />
+-  Right now, I'm focusing on honing my workflow and am eager to find opportunities to apply and further develop my skills. <br />
 -  If you’d like to collaborate or have any exciting projects, feel free to reach out! <br />
 
 ---
