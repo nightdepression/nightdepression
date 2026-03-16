@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/BrTJSk7.gif" width="300"/>
 </p>
-<h1 align="center">👋 Hi there, I'm Daniil (Riin)</h1>
+<h1 align="center">👋 Hi there, I'm Riin</h1>
 <h4 align="center">"Code is like poetry; every line tells a story, and every project builds a world."
 — Striving to create seamless web experiences.</h3>
 
